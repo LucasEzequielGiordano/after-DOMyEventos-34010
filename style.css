@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+div#listaNotas {
+    display: flex;
+    justify-content: center;
+}
+
+.tachar {
+    text-decoration: line-through;
+}
+
+.notaAgregada {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
